@@ -1,0 +1,9 @@
+Passenger [id=1, name=Shweta, contactNumber=7776975302]
+Flight [flighId=1, destination=Pune, ticketPrice=1000.0 /- Rs, seatsAvailable=5, departureTime=12:30]
+-------------------------
+Passenger [id=1, name=Shweta, contactNumber=7776975302]
+Flight [flighId=1, destination=Pune, ticketPrice=1000.0 /- Rs, seatsAvailable=5, departureTime=12:30]
+-------------------------
+Passenger [id=2, name=Shruti, contactNumber=9021305998]
+Flight [flighId=2, destination=Mumbai, ticketPrice=1500.0 /- Rs, seatsAvailable=10, departureTime=1:00]
+-------------------------
